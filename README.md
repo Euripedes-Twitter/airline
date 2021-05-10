@@ -33,3 +33,8 @@ After download all data for 2008 and saved in my machine. 
 6 - The dashboard is uploaded to Tableau Public
     
     Link: https://public.tableau.com/profile/euripedes.victor.de.campos.junior#!/vizhome/Airline_Route_SFO_LAX_v6/ClientDash
+    
+
+7 - File with extra notes
+    
+    File name: Notes.docx
